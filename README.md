@@ -65,7 +65,7 @@ breilan/
 
 Gå gjennom breilan.no grundig. Identifiser hvilke sider og funksjoner som finnes, og diskuter i gruppen hva som bør beholdes og hva som bør endres.
 
-**Leveranse:** Kort skriftlig oppsummering (½–1 side) av funn og planer.
+**Dokumentasjon:** Lag noen notater til denne fasen. Hva slags funksjoner vil du ta med, og hva slags funksjoner kan fjernes? 
 
 ---
 
@@ -73,7 +73,7 @@ Gå gjennom breilan.no grundig. Identifiser hvilke sider og funksjoner som finne
 
 Lag enkle skisser av alle sider, for hånd eller digitalt (f.eks. Figma eller Balsamiq). Wireframen skal vise layout og innholdsplassering uten farger eller detaljer. Lag én versjon for desktop og én for mobil for hver side.
 
-**Leveranse:** Wireframes for alle sider. Må godkjennes av lærer før dere går videre.
+**Dokumentasjon:** Lag en enkel wireframe, gjerne på papir. 
 
 ---
 
@@ -81,7 +81,7 @@ Lag enkle skisser av alle sider, for hånd eller digitalt (f.eks. Figma eller Ba
 
 Bygg videre på wireframene i Figma og legg til farger, typografi og visuell stil. Prototypen skal være klikkbar slik at man kan navigere mellom sidene, og den skal vise hvordan siden ser ut på både desktop og mobil.
 
-**Leveranse:** Klikkbar Figma-prototype. Må godkjennes av lærer før koding starter.
+**Dokumentasjon:** Klikkbar Figma-prototype. 
 
 ---
 
@@ -91,7 +91,7 @@ Bygg videre på wireframene i Figma og legg til farger, typografi og visuell sti
 
 ### Fase 4: Planlegg, strukturer og sett opp infrastruktur
 
-Dette er den teknisk mest krevende fasen. Bruk lærers guide aktivt: [github.com/TeacherBjorn/bruk-av-firebase](https://github.com/TeacherBjorn/bruk-av-firebase)
+Guide til oppsett av firebase: [github.com/TeacherBjorn/bruk-av-firebase](https://github.com/TeacherBjorn/bruk-av-firebase)
 
 **Firebase og GitHub Actions:**
 
