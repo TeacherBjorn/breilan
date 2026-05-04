@@ -24,7 +24,7 @@ Oppgaven er å lage en ny, enkel og veldokumentert nettside som kan brukes av ne
 | Firebase Hosting | Gratis hosting av statiske filer | Enkelt oppsett, god ytelse |
 | Google Forms + Sheets | Påmelding og kontaktskjema | Embeddes via iframe. Svar lagres automatisk i Google Sheets. |
 
-Firebase og GitHub Actions er sentrale verktøy i dette prosjektet. Lærers guide til oppsett ligger her: [github.com/TeacherBjorn/bruk-av-firebase](https://github.com/TeacherBjorn/bruk-av-firebase)
+Firebase og GitHub Actions er sentrale verktøy i dette prosjektet. Introduksjon og guide for hvordan man setter opp firebase finner du her: [github.com/TeacherBjorn/bruk-av-firebase](https://github.com/TeacherBjorn/bruk-av-firebase)
 
 ---
 
